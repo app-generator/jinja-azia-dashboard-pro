@@ -14,9 +14,9 @@
 
 > Links
 
-- [Jinja Azia Dashboard PRO](https://appseed.us/jinja-template/jinja-azia-dashboard-pro) - Product page
-- [Jinja Azia Dashboard PRO - Demo](https://jinja-azia-dashboard-pro.appseed.us/) - LIVE Demo
-- [Jinja Azia Dashboard PRO - Docs](https://docs.appseed.us/jinja-template/jinja-azia-dashboard-pro/) - Product documentation
+- [Jinja Azia PRO](https://appseed.us/jinja-template/jinja-azia-dashboard-pro) - Product page
+- [Jinja Azia PRO - Demo](https://jinja-azia-dashboard-pro.appseed.us/) - LIVE Demo
+- [Jinja Azia PRO - Docs](https://docs.appseed.us/jinja-template/jinja-azia-dashboard-pro/) - Product documentation
 
 <br />
 
@@ -39,7 +39,7 @@ Build on top of Bootstrap 4, the open-source CSS framework that ensure fast prot
 
 <br />
 
-![Jinja Azia Dashboard PRO - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-azia-dashboard-pro/main/media/jinja-azia-dashboard-pro-intro.gif)
+![Jinja Azia Dashboard PRO - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-azia-dashboard-pro/main/media/jinja-azia-dashboard-pro-screen.png)
 
 <br />
 
