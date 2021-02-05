@@ -15,7 +15,7 @@
 > Links
 
 - [Jinja Azia PRO](https://appseed.us/jinja-template/jinja-azia-dashboard-pro) - Product page
-- [Jinja Azia PRO - Demo](https://jinja-azia-dashboard-pro.appseed.us/) - LIVE Demo
+- [Jinja Azia PRO - Demo](https://jinja-azia-dashboard-pro.appseed-srv1.com/) - LIVE Demo
 - [Jinja Azia PRO - Docs](https://docs.appseed.us/jinja-template/jinja-azia-dashboard-pro/) - Product documentation
 
 <br />
